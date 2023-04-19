@@ -4,7 +4,8 @@
 ### DataScience - Projetos pessoais - Estudos:
 Notebooks de alguns projetos na área de Data Science, Machine Learning e Data Analysis, com datasets retirados do kaggle.
 
-* Olist RFM Segmentation
 * Alura Challenge Churn Telco
+* Olist RFM Segmentation
+
 
 
