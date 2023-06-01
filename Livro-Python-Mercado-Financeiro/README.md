@@ -1,4 +1,4 @@
-### Livro - Python e Mercado Financeiro:
+### Book - Python e Mercado Financeiro:
 Studies of each chapter presenting the codes and exercises.
 
 
