@@ -1,1 +1,1 @@
-
+## 2.1 VETORIZAÇÃO COM PANDAS
