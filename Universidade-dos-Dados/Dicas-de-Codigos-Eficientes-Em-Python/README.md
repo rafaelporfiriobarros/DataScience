@@ -1,4 +1,4 @@
 # 2. DICAS DE CÓDIGOS EFICIENTES EM PYTHON
 ## 2.1 VETORIZAÇÃO COM PANDAS
-### Pandas (Parte 1)
-### Pandas (Parte 2)
+- Pandas (Parte 1)
+- Pandas (Parte 2)
