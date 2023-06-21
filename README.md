@@ -8,6 +8,7 @@ Notebooks from some projects in the area of Data Science, Machine Learning and D
 * Olist RFM Segmentation
 * Book - Engenharia de Software para Ciência de Dados
 * Book - Python e mercado financeiro - Programação para estudantes, investidores e analistas
+* Universidade dos Dados
 
 
 
