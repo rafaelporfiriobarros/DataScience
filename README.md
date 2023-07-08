@@ -9,6 +9,7 @@ Notebooks from some projects in the area of Data Science, Machine Learning and D
 * Book - Engenharia de Software para Ciência de Dados
 * Book - Python e mercado financeiro - Programação para estudantes, investidores e analistas
 * Universidade dos Dados
+* Udemy - Estatística para Ciência de Dados e Machine Learning
 
 
 
